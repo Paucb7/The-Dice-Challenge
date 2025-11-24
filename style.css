@@ -1,0 +1,96 @@
+img {
+    width: 300px;
+    margin: 0;
+}
+
+h1 {
+    font-size: 5em;
+    text-align: center;
+    color: aliceblue;
+
+}
+
+h2 {
+    color: aliceblue;
+}
+
+.hiddenDices {
+    display: none;
+}
+
+.titillium-web-regular {
+  font-family: "Titillium Web", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.arimo {
+  font-family: "Arimo", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+}
+
+#container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 50px;
+}
+
+#player1, #player2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+}
+
+.btn-roll {
+    margin: 30px auto 0;
+    width: 200px;
+    display: block;
+    background-color: rgb(21, 146, 71);
+    color: white;
+    border-color: rgb(21, 146, 71);
+    border-radius: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-large;
+
+}
+
+.btn-roll:hover {
+    background-color: aliceblue;
+    color: black;
+    border-color: aliceblue;
+}
+
+body {
+    background-color: #23242c;
+}
+
+footer {
+    background-color: #cd2438;
+    margin-top: 40px;
+    padding: 10px;
+}
+
+ul {
+    list-style: none;
+    display: inline;
+    text-align: center;
+
+}
+
+a {
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+h3 {
+    color: whitesmoke;
+    text-align: center;
+}
+
+a:hover {
+    color: #23242c
+}
