@@ -7,7 +7,11 @@ This project marks one of my first solid steps using JavaScript to manipulate th
 
 ## 📷 Preview
 
-<img width="2480" height="1252" alt="image" src="https://github.com/user-attachments/assets/1ac6cefb-3391-4934-9db4-71bae5d92707" />
+<img width="2480" height="1252" alt="image" src="https://github.com/user-attachments/assets/1ac6cefb-3391-4934-9db4-71bae5d92707" /><br>
+
+✨ Visit the [GitHub Page](https://paucb7.github.io/The-Dice-Challenge/) to play it!
+
+
 
 
 ## 🎮 **Features**
